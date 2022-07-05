@@ -1,0 +1,1 @@
+{'manhattan': 1.0, 'euclidean': 1.0, 'chebyshev': 1.0, 'standardized_euclidean': 0.0, 'canberra': 1.0, 'mahalanobis': 0.3804347826086957, 'cosine': 0.5862068965517241, 'adjusted-cosine': 0.6622516556291391, 'pearson': 0.6622516556291391}
