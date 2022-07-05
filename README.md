@@ -8,7 +8,10 @@
 
 **RESEARCH PAPER:** [`Final Manuscript.pdf`](https://github.com/memgonzales/meta-learning-clustering/blob/master/Final%20Manuscript.pdf)
 
-**REPOSITORY DIRECTORY:** [`0. Master Notebook.ipynb`](https://github.com/memgonzales/meta-learning-clustering/blob/master/0.%20Master%20Notebook.ipynb)
+**REPOSITORY DIRECTORY:** [`0. Master Notebook.ipynb`](https://github.com/memgonzales/meta-learning-clustering/blob/master/0.%20Master%20Notebook.ipynb) <br>
+
+<img src="https://github.com/memgonzales/meta-learning-clustering/blob/master/figures/block_diagram.png?raw=True" alt="Methodology" width = 250> <img src="https://github.com/memgonzales/meta-learning-clustering/blob/master/figures/shap_chebyshev.png" alt="Most Important Features (Chebyshev) - HAP" width = 600> 
+
 
 ## Authors
 - <b>Mark Edward M. Gonzales</b> <br/>
