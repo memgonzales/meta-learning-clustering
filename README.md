@@ -3,16 +3,7 @@
 **This work was accepted for paper presentation in the 2022 IEEE Region 10 Conference ([TENCON2022](https://www.tencon2022.org/)):**
 
 - The paper can be accessed via this [link](https://github.com/memgonzales/meta-learning-clustering/blob/master/Final%20Manuscript.pdf).
-- This repository contains the complete dataset and code, as well as other related files. A directory is provided [here](https://github.com/memgonzales/meta-learning-clustering/blob/master/0.%20Master%20Notebook.ipynb).
 - The [dataset of datasets](https://github.com/memgonzales/meta-learning-clustering/tree/master/final_datasets) used in this work is released publicly for future researchers. 
-
-***--- To be updated ---***
-
-If you find our work useful, you may view it on [IEEE Xplore]():
-```
-@INPROCEEDINGS{
-}
-```
 
 ## Description
 
