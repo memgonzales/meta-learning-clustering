@@ -2,8 +2,8 @@
 
 **This work was accepted for paper presentation in the 2022 IEEE Region 10 Conference ([TENCON2022](https://www.tencon2022.org/)):**
 
-- The paper can be accessed via this [link](https://github.com/memgonzales/meta-learning-clustering/blob/master/Final%20Manuscript.pdf).
-- The [dataset of datasets](https://github.com/memgonzales/meta-learning-clustering/tree/master/final_datasets) used in this work is released publicly for future researchers. 
+- The paper can be accessed via this [link](https://github.com/memgonzales/meta-learning-clustering/blob/master/Distance%20Metric%20Recommendation%20for%20k-Means%20Clustering%20A%20Meta-Learning%20Approach.pdf).
+- The [dataset of datasets](https://github.com/memgonzales/meta-learning-clustering/tree/master/dataset_of_datasets) used in this work is released publicly for future researchers. 
 
 ## Description
 
