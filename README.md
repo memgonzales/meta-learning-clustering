@@ -1,5 +1,13 @@
 # Distance Metric Recommendation for $k$-Means Clustering: A Meta-Learning Approach
 
+![badge][badge-jupyter]
+![badge][badge-python]
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![badge][badge-pandas]
+![badge][badge-numpy]
+![badge][badge-scipy]
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
 **This work was accepted for paper presentation at the 2022 IEEE Region 10 Conference ([TENCON 2022](https://www.tencon2022.org/)):**
 
 - The preprint version of our paper can be accessed via this [link](https://github.com/memgonzales/meta-learning-clustering/blob/master/Distance%20Metric%20Recommendation%20for%20k-Means%20Clustering%20A%20Meta-Learning%20Approach.pdf).
@@ -30,3 +38,9 @@
   macario.cordel@dlsu.edu.ph
   
 This is the major course output in a machine learning class for master's students under Dr. Macario O. Cordel, II of the Department of Computer Technology, De La Salle University. The task is to create a ten-week investigatory project that applies machine learning to a particular research area or offers a substantial theoretical or algorithmic contribution to existing machine learning techniques.
+
+[badge-jupyter]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white
+[badge-python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white
+[badge-pandas]: https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white
+[badge-numpy]: https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white
+[badge-scipy]: https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white
