@@ -10,10 +10,23 @@
 
 **This work was accepted for paper presentation at the 2022 IEEE Region 10 Conference ([TENCON 2022](https://www.tencon2022.org/)):**
 
-- The preprint version of our paper can be accessed via this [link](https://github.com/memgonzales/meta-learning-clustering/blob/master/Distance%20Metric%20Recommendation%20for%20k-Means%20Clustering%20A%20Meta-Learning%20Approach.pdf).
+- The final version of our paper (as published in the conference proceedings of TENCON 2022) can be accessed via this [link](https://ieeexplore.ieee.org/abstract/document/9978037).
+  - The preprint version of our paper can be accessed via this [link](https://github.com/memgonzales/meta-learning-clustering/blob/master/Distance%20Metric%20Recommendation%20for%20k-Means%20Clustering%20A%20Meta-Learning%20Approach.pdf).
   - Our TENCON 2022 presentation slides can be accessed via this [link](https://docs.google.com/presentation/d/1PsrlXavi4ubo-PVuop32Cysbz_C0CvcMTTBMo9YuTuc/edit?usp=sharing).
 - Our [dataset of datasets](https://github.com/memgonzales/meta-learning-clustering/tree/master/dataset_of_datasets) is publicly released for future researchers. 
 - Kindly refer to [`0. Directory.ipynb`](https://github.com/memgonzales/meta-learning-clustering/blob/master/0.%20Directory.ipynb) for a guide on navigating through this repository.
+
+If you find our work useful, please consider citing:
+```
+@INPROCEEDINGS{9978037,
+  author={Gonzales, Mark Edward M. and Uy, Lorene C. and Sy, Jacob Adrianne L. and Cordel, Macario O.},
+  booktitle={TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON)}, 
+  title={Distance Metric Recommendation for k-Means Clustering: A Meta-Learning Approach}, 
+  year={2022},
+  pages={1-6},
+  doi={10.1109/TENCON55691.2022.9978037}}
+```
+
 
 ## Description
 
