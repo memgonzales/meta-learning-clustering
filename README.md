@@ -8,7 +8,7 @@
 ![badge][badge-scipy]
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-**This work was accepted for paper presentation at the 2022 IEEE Region 10 Conference ([TENCON 2022](https://www.tencon2022.org/)):**
+**This work was accepted for paper presentation at the 2022 IEEE Region 10 Conference ([TENCON 2022](https://www.tencon2022.org/)), held virtually and in-person in Hong Kong:**
 
 - The final version of our paper (as published in the conference proceedings of TENCON 2022) can be accessed via this [link](https://ieeexplore.ieee.org/abstract/document/9978037).
   - The preprint version of our paper can be accessed via this [link](https://github.com/memgonzales/meta-learning-clustering/blob/master/Distance%20Metric%20Recommendation%20for%20k-Means%20Clustering%20A%20Meta-Learning%20Approach.pdf).
