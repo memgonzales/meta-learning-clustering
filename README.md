@@ -27,7 +27,7 @@ If you find our work useful, please consider citing:
   doi={10.1109/TENCON55691.2022.9978037}}
 ```
 
-This repository is also archived on [Zenodo](https://zenodo.org/badge/latestdoi/510684335).
+This repository is also archived on [Zenodo](https://doi.org/10.5281/zenodo.7880146).
 
 ## Description
 
